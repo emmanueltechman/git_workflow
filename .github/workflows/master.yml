@@ -17,4 +17,4 @@ jobs:
         server: 192.249.118.129
         username: ${{ secrets.ftp_username}}
         password: ${{ secrets.ftp_password }}
-        server-dir: /public_html/portal.chenhomesltd.com/
+        server-dir: /portal.chenhomesltd.com/
